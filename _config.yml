@@ -1,7 +1,7 @@
 name: ZekeJohnsonArt
 favicon: null
-layout_spectrum: 0.06642341217957437
-typography_spectrum: 0.8297417997382581
+layout_spectrum: 1
+typography_spectrum: 0.15893
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.6231399087700993
-  lightness: 0.8398406167980283
+    - '#ffffff'
+    - '#7d7c7a'
+    - '#1a0808'
+    - '#9cd7f5'
+    - '#ee7c62'
+  brandStrength: 0.625
+  lightness: 0.3125
   saturation: 0.3597706879954785
-  rhythmicContrast: 0.06413994822651148
+  rhythmicContrast: 0.75
 purpose: []
